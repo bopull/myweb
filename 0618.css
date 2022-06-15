@@ -1,6 +1,7 @@
 h1{text-align: center;}
 table{width: 100%}
 td{width: 50%; text-align: center;}
+img{border-radius: 20px}
 
 #myDIV {
   line-height: 16px;
